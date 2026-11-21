@@ -52,6 +52,78 @@ window.FLL_DATA={
    "title": "توثيق المشروع والسياسات والحوكمة",
    "children": [
     {
+     "id": "d0-src",
+     "code": "",
+     "name": "المصادر المرجعية لإعداد بعض ملفات المشروع",
+     "type": "folder",
+     "children": [
+      {
+       "id": "d0-src-001",
+       "code": "",
+       "name": "FLL-SRC-001",
+       "type": "file",
+       "children": []
+      },
+      {
+       "id": "d0-src-002",
+       "code": "",
+       "name": "FLL-SRC-002",
+       "type": "file",
+       "children": []
+      },
+      {
+       "id": "d0-src-003",
+       "code": "",
+       "name": "FLL-SRC-003",
+       "type": "file",
+       "children": []
+      },
+      {
+       "id": "d0-src-004",
+       "code": "",
+       "name": "FLL-SRC-004",
+       "type": "file",
+       "children": []
+      },
+      {
+       "id": "d0-src-005",
+       "code": "",
+       "name": "FLL-SRC-005",
+       "type": "file",
+       "children": []
+      },
+      {
+       "id": "d0-src-006",
+       "code": "",
+       "name": "FLL-SRC-006",
+       "type": "file",
+       "children": []
+      },
+      {
+       "id": "d0-src-007",
+       "code": "",
+       "name": "FLL-SRC-007",
+       "type": "file",
+       "children": []
+      },
+      {
+       "id": "d0-src-008",
+       "code": "",
+       "name": "FLL-SRC-008",
+       "type": "file",
+       "children": []
+      },
+      {
+       "id": "d0-src-register",
+       "code": "",
+       "name": "Source Register Control",
+       "type": "file",
+       "children": [],
+       "note": "سجل يوثّق المصادر الخارجية المستخدمة، وسبب الحاجة إليها، وبياناتها الببليوجرافية — Register of external sources, why each was needed, and bibliographic details."
+      }
+     ]
+    },
+    {
      "id": "d0-0.0",
      "code": "0.0",
      "name": "ملفات توثيق وتخطيط مشروع تطوير مكتبة كلية الحقوق 2024–2027",
@@ -59,7 +131,7 @@ window.FLL_DATA={
       {
        "id": "d0-0.0.0",
        "code": "0.0.0",
-       "name": "(اسم غير محدد في ملف Excel)",
+       "name": "مسودة",
        "children": [],
        "type": "file"
       },
@@ -92,9 +164,261 @@ window.FLL_DATA={
         {
          "id": "d0-0.0.2.3",
          "code": "0.0.2.3",
-         "name": "صور المصادر وبيانات عن أنواع وأشكال وتاريخ المصادر في مكتبة حقوق",
-         "children": [],
-         "type": "file"
+         "name": "صور نماذج من مقتنيات المكتبة",
+         "children": [
+          {
+           "id": "d0-media-books",
+           "code": "",
+           "name": "الكتب – Books",
+           "type": "folder",
+           "children": [
+            {
+             "id": "d0-media-books-1",
+             "type": "card",
+             "code": "",
+             "name": "",
+             "children": [],
+             "title": "عنوان الكتاب 1 – Book title 1 (placeholder)",
+             "desc": "وصف مختصر – Short description (placeholder)",
+             "imgText": "رابط الصورة – Image link"
+            },
+            {
+             "id": "d0-media-books-2",
+             "type": "card",
+             "code": "",
+             "name": "",
+             "children": [],
+             "title": "عنوان الكتاب 2 – Book title 2 (placeholder)",
+             "desc": "وصف مختصر – Short description (placeholder)",
+             "imgText": "رابط الصورة – Image link"
+            },
+            {
+             "id": "d0-media-books-3",
+             "type": "card",
+             "code": "",
+             "name": "",
+             "children": [],
+             "title": "عنوان الكتاب 3 – Book title 3 (placeholder)",
+             "desc": "وصف مختصر – Short description (placeholder)",
+             "imgText": "رابط الصورة – Image link"
+            },
+            {
+             "id": "d0-media-books-4",
+             "type": "card",
+             "code": "",
+             "name": "",
+             "children": [],
+             "title": "عنوان الكتاب 4 – Book title 4 (placeholder)",
+             "desc": "وصف مختصر – Short description (placeholder)",
+             "imgText": "رابط الصورة – Image link"
+            }
+           ]
+          },
+          {
+           "id": "d0-media-catalog",
+           "code": "",
+           "name": "بطاقات الفهرسة – Catalog Cards",
+           "type": "file",
+           "children": []
+          },
+          {
+           "id": "d0-media-theses",
+           "code": "",
+           "name": "الرسائل الجامعية – Theses",
+           "type": "folder",
+           "children": [
+            {
+             "id": "d0-media-theses-1",
+             "code": "",
+             "name": "رسالة جامعية 1 – Thesis sample 1",
+             "type": "file",
+             "children": []
+            },
+            {
+             "id": "d0-media-theses-2",
+             "code": "",
+             "name": "رسالة جامعية 2 – Thesis sample 2",
+             "type": "file",
+             "children": []
+            },
+            {
+             "id": "d0-media-theses-3",
+             "code": "",
+             "name": "رسالة جامعية 3 – Thesis sample 3",
+             "type": "file",
+             "children": []
+            }
+           ]
+          },
+          {
+           "id": "d0-media-ref",
+           "code": "",
+           "name": "الكتب المرجعية – Reference Books",
+           "type": "folder",
+           "children": [
+            {
+             "id": "d0-media-ref-dict",
+             "code": "",
+             "name": "قواميس – Dictionaries",
+             "type": "folder",
+             "children": [
+              {
+               "id": "d0-media-ref-dict-1",
+               "code": "",
+               "name": "قاموس 1 – Dictionary sample 1",
+               "type": "file",
+               "children": []
+              },
+              {
+               "id": "d0-media-ref-dict-2",
+               "code": "",
+               "name": "قاموس 2 – Dictionary sample 2",
+               "type": "file",
+               "children": []
+              }
+             ]
+            },
+            {
+             "id": "d0-media-ref-enc",
+             "code": "",
+             "name": "موسوعات – Encyclopedias",
+             "type": "folder",
+             "children": [
+              {
+               "id": "d0-media-ref-enc-1",
+               "code": "",
+               "name": "موسوعة 1 – Encyclopedia sample 1",
+               "type": "file",
+               "children": []
+              },
+              {
+               "id": "d0-media-ref-enc-2",
+               "code": "",
+               "name": "موسوعة 2 – Encyclopedia sample 2",
+               "type": "file",
+               "children": []
+              },
+              {
+               "id": "d0-media-ref-enc-3",
+               "code": "",
+               "name": "موسوعة 3 – Encyclopedia sample 3",
+               "type": "file",
+               "children": []
+              }
+             ]
+            },
+            {
+             "id": "d0-media-ref-atl",
+             "code": "",
+             "name": "أطالس – Atlases",
+             "type": "folder",
+             "children": [
+              {
+               "id": "d0-media-ref-atl-1",
+               "code": "",
+               "name": "أطلس 1 – Atlas sample 1",
+               "type": "file",
+               "children": []
+              },
+              {
+               "id": "d0-media-ref-atl-2",
+               "code": "",
+               "name": "أطلس 2 – Atlas sample 2",
+               "type": "file",
+               "children": []
+              }
+             ]
+            },
+            {
+             "id": "d0-media-ref-bib",
+             "code": "",
+             "name": "ببليوجرافيا – Bibliography (عينة واحدة – 1 sample)",
+             "type": "file",
+             "children": []
+            },
+            {
+             "id": "d0-media-ref-bio",
+             "code": "",
+             "name": "مصدر ترجمة وتراجم – Biographical work (عينة واحدة – 1 sample)",
+             "type": "file",
+             "children": []
+            },
+            {
+             "id": "d0-media-ref-rep",
+             "code": "",
+             "name": "تقرير – Report (عينة واحدة – 1 sample)",
+             "type": "file",
+             "children": []
+            },
+            {
+             "id": "d0-media-ref-abs",
+             "code": "",
+             "name": "نشرة مستخلصات – Abstracting bulletin (عينة واحدة – 1 sample)",
+             "type": "file",
+             "children": []
+            },
+            {
+             "id": "d0-media-ref-idx",
+             "code": "",
+             "name": "كشاف – Index (عينة واحدة – 1 sample)",
+             "type": "file",
+             "children": []
+            },
+            {
+             "id": "d0-media-ref-dir",
+             "code": "",
+             "name": "دليل هيئات – Directory of organizations (عينة واحدة – 1 sample)",
+             "type": "file",
+             "children": []
+            },
+            {
+             "id": "d0-media-ref-1540",
+             "code": "",
+             "name": "كتاب مطبوع مبكرًا – Early printed book, 1540 CE (عينة واحدة – 1 sample)",
+             "type": "file",
+             "children": []
+            }
+           ]
+          },
+          {
+           "id": "d0-media-periodicals",
+           "code": "",
+           "name": "الدوريات والمصادر المستمرة – Periodicals and Continuing Resources",
+           "type": "folder",
+           "children": [
+            {
+             "id": "d0-media-per-jle",
+             "code": "",
+             "name": "Journal of Law and Economics",
+             "type": "file",
+             "children": []
+            },
+            {
+             "id": "d0-media-per-foreign",
+             "code": "",
+             "name": "دورية أجنبية – Foreign journal",
+             "type": "file",
+             "children": []
+            }
+           ]
+          },
+          {
+           "id": "d0-media-conf",
+           "code": "",
+           "name": "المؤتمرات – Conferences",
+           "type": "folder",
+           "children": [
+            {
+             "id": "d0-media-conf-1",
+             "code": "",
+             "name": "مؤتمر – Conference sample",
+             "type": "file",
+             "children": []
+            }
+           ]
+          }
+         ],
+         "type": "folder"
         }
        ],
        "type": "folder"
@@ -310,359 +634,6 @@ window.FLL_DATA={
       }
      ],
      "type": "folder"
-    },
-    {
-     "id": "d0-src",
-     "code": "",
-     "name": "المصادر المرجعية لإعداد بعض ملفات المشروع",
-     "type": "folder",
-     "children": [
-      {
-       "id": "d0-src-001",
-       "code": "",
-       "name": "FLL-SRC-001",
-       "type": "file",
-       "children": []
-      },
-      {
-       "id": "d0-src-002",
-       "code": "",
-       "name": "FLL-SRC-002",
-       "type": "file",
-       "children": []
-      },
-      {
-       "id": "d0-src-003",
-       "code": "",
-       "name": "FLL-SRC-003",
-       "type": "file",
-       "children": []
-      },
-      {
-       "id": "d0-src-004",
-       "code": "",
-       "name": "FLL-SRC-004",
-       "type": "file",
-       "children": []
-      },
-      {
-       "id": "d0-src-005",
-       "code": "",
-       "name": "FLL-SRC-005",
-       "type": "file",
-       "children": []
-      },
-      {
-       "id": "d0-src-006",
-       "code": "",
-       "name": "FLL-SRC-006",
-       "type": "file",
-       "children": []
-      },
-      {
-       "id": "d0-src-007",
-       "code": "",
-       "name": "FLL-SRC-007",
-       "type": "file",
-       "children": []
-      },
-      {
-       "id": "d0-src-008",
-       "code": "",
-       "name": "FLL-SRC-008",
-       "type": "file",
-       "children": []
-      },
-      {
-       "id": "d0-src-register",
-       "code": "",
-       "name": "Source Register Control",
-       "type": "file",
-       "children": [],
-       "note": "سجل يوثّق المصادر الخارجية المستخدمة، وسبب الحاجة إليها، وبياناتها الببليوجرافية — Register of external sources, why each was needed, and bibliographic details."
-      }
-     ]
-    },
-    {
-     "id": "d0-media",
-     "code": "",
-     "name": "التوثيق بالميديا",
-     "type": "folder",
-     "children": [
-      {
-       "id": "d0-media-before",
-       "code": "",
-       "name": "صور قبل التطوير – Before-development photographs",
-       "type": "file",
-       "children": []
-      },
-      {
-       "id": "d0-media-after",
-       "code": "",
-       "name": "صور بعد التطوير – After-development photographs",
-       "type": "file",
-       "children": []
-      },
-      {
-       "id": "d0-media-collections",
-       "code": "",
-       "name": "صور نماذج المجموعات",
-       "type": "folder",
-       "children": [
-        {
-         "id": "d0-media-books",
-         "code": "",
-         "name": "الكتب – Books",
-         "type": "folder",
-         "children": [
-          {
-           "id": "d0-media-books-1",
-           "type": "card",
-           "code": "",
-           "name": "",
-           "children": [],
-           "title": "عنوان الكتاب 1 – Book title 1 (placeholder)",
-           "desc": "وصف مختصر – Short description (placeholder)",
-           "imgText": "رابط الصورة – Image link"
-          },
-          {
-           "id": "d0-media-books-2",
-           "type": "card",
-           "code": "",
-           "name": "",
-           "children": [],
-           "title": "عنوان الكتاب 2 – Book title 2 (placeholder)",
-           "desc": "وصف مختصر – Short description (placeholder)",
-           "imgText": "رابط الصورة – Image link"
-          },
-          {
-           "id": "d0-media-books-3",
-           "type": "card",
-           "code": "",
-           "name": "",
-           "children": [],
-           "title": "عنوان الكتاب 3 – Book title 3 (placeholder)",
-           "desc": "وصف مختصر – Short description (placeholder)",
-           "imgText": "رابط الصورة – Image link"
-          },
-          {
-           "id": "d0-media-books-4",
-           "type": "card",
-           "code": "",
-           "name": "",
-           "children": [],
-           "title": "عنوان الكتاب 4 – Book title 4 (placeholder)",
-           "desc": "وصف مختصر – Short description (placeholder)",
-           "imgText": "رابط الصورة – Image link"
-          }
-         ]
-        },
-        {
-         "id": "d0-media-catalog",
-         "code": "",
-         "name": "بطاقات الفهرسة – Catalog Cards",
-         "type": "file",
-         "children": []
-        },
-        {
-         "id": "d0-media-theses",
-         "code": "",
-         "name": "الرسائل الجامعية – Theses",
-         "type": "folder",
-         "children": [
-          {
-           "id": "d0-media-theses-1",
-           "code": "",
-           "name": "رسالة جامعية 1 – Thesis sample 1",
-           "type": "file",
-           "children": []
-          },
-          {
-           "id": "d0-media-theses-2",
-           "code": "",
-           "name": "رسالة جامعية 2 – Thesis sample 2",
-           "type": "file",
-           "children": []
-          },
-          {
-           "id": "d0-media-theses-3",
-           "code": "",
-           "name": "رسالة جامعية 3 – Thesis sample 3",
-           "type": "file",
-           "children": []
-          }
-         ]
-        },
-        {
-         "id": "d0-media-ref",
-         "code": "",
-         "name": "الكتب المرجعية – Reference Books",
-         "type": "folder",
-         "children": [
-          {
-           "id": "d0-media-ref-dict",
-           "code": "",
-           "name": "قواميس – Dictionaries",
-           "type": "folder",
-           "children": [
-            {
-             "id": "d0-media-ref-dict-1",
-             "code": "",
-             "name": "قاموس 1 – Dictionary sample 1",
-             "type": "file",
-             "children": []
-            },
-            {
-             "id": "d0-media-ref-dict-2",
-             "code": "",
-             "name": "قاموس 2 – Dictionary sample 2",
-             "type": "file",
-             "children": []
-            }
-           ]
-          },
-          {
-           "id": "d0-media-ref-enc",
-           "code": "",
-           "name": "موسوعات – Encyclopedias",
-           "type": "folder",
-           "children": [
-            {
-             "id": "d0-media-ref-enc-1",
-             "code": "",
-             "name": "موسوعة 1 – Encyclopedia sample 1",
-             "type": "file",
-             "children": []
-            },
-            {
-             "id": "d0-media-ref-enc-2",
-             "code": "",
-             "name": "موسوعة 2 – Encyclopedia sample 2",
-             "type": "file",
-             "children": []
-            },
-            {
-             "id": "d0-media-ref-enc-3",
-             "code": "",
-             "name": "موسوعة 3 – Encyclopedia sample 3",
-             "type": "file",
-             "children": []
-            }
-           ]
-          },
-          {
-           "id": "d0-media-ref-atl",
-           "code": "",
-           "name": "أطالس – Atlases",
-           "type": "folder",
-           "children": [
-            {
-             "id": "d0-media-ref-atl-1",
-             "code": "",
-             "name": "أطلس 1 – Atlas sample 1",
-             "type": "file",
-             "children": []
-            },
-            {
-             "id": "d0-media-ref-atl-2",
-             "code": "",
-             "name": "أطلس 2 – Atlas sample 2",
-             "type": "file",
-             "children": []
-            }
-           ]
-          },
-          {
-           "id": "d0-media-ref-bib",
-           "code": "",
-           "name": "ببليوجرافيا – Bibliography (عينة واحدة – 1 sample)",
-           "type": "file",
-           "children": []
-          },
-          {
-           "id": "d0-media-ref-bio",
-           "code": "",
-           "name": "مصدر ترجمة وتراجم – Biographical work (عينة واحدة – 1 sample)",
-           "type": "file",
-           "children": []
-          },
-          {
-           "id": "d0-media-ref-rep",
-           "code": "",
-           "name": "تقرير – Report (عينة واحدة – 1 sample)",
-           "type": "file",
-           "children": []
-          },
-          {
-           "id": "d0-media-ref-abs",
-           "code": "",
-           "name": "نشرة مستخلصات – Abstracting bulletin (عينة واحدة – 1 sample)",
-           "type": "file",
-           "children": []
-          },
-          {
-           "id": "d0-media-ref-idx",
-           "code": "",
-           "name": "كشاف – Index (عينة واحدة – 1 sample)",
-           "type": "file",
-           "children": []
-          },
-          {
-           "id": "d0-media-ref-dir",
-           "code": "",
-           "name": "دليل هيئات – Directory of organizations (عينة واحدة – 1 sample)",
-           "type": "file",
-           "children": []
-          },
-          {
-           "id": "d0-media-ref-1540",
-           "code": "",
-           "name": "كتاب مطبوع مبكرًا – Early printed book, 1540 CE (عينة واحدة – 1 sample)",
-           "type": "file",
-           "children": []
-          }
-         ]
-        },
-        {
-         "id": "d0-media-periodicals",
-         "code": "",
-         "name": "الدوريات والمصادر المستمرة – Periodicals and Continuing Resources",
-         "type": "folder",
-         "children": [
-          {
-           "id": "d0-media-per-jle",
-           "code": "",
-           "name": "Journal of Law and Economics",
-           "type": "file",
-           "children": []
-          },
-          {
-           "id": "d0-media-per-foreign",
-           "code": "",
-           "name": "دورية أجنبية – Foreign journal",
-           "type": "file",
-           "children": []
-          }
-         ]
-        },
-        {
-         "id": "d0-media-conf",
-         "code": "",
-         "name": "المؤتمرات – Conferences",
-         "type": "folder",
-         "children": [
-          {
-           "id": "d0-media-conf-1",
-           "code": "",
-           "name": "مؤتمر – Conference sample",
-           "type": "file",
-           "children": []
-          }
-         ]
-        }
-       ]
-      }
-     ]
     },
     {
      "id": "d0-barcode",
